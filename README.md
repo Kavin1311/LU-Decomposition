@@ -22,7 +22,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 (i) To find the L and U matrix
-'''
+```
 Program to find L and U matrix using LU decomposition.
 Developed by: T.KAVINAJAI
 RegisterNumber: 212223100020'''
